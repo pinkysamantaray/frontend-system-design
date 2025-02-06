@@ -124,5 +124,5 @@ General Principles:
 - Minimize RAM usage
 - Offload data to hard-drive when it's needed
 - Pick a suitable storage
-    /assets/images/web-storage.png
+    ![WebStorage types and comparisons.](/assets/images/web-storage.png)
 
