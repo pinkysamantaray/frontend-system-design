@@ -198,9 +198,29 @@ So, just like making a great lemonade stand, designing a frontend system is abou
     `<link rel="stylesheet" media="print" href="..." onload="this.media='all'"/>`
 
     - Images > 
-    Compessed SVG(less characters/optimized, less size)
-    webp designed to replace png, jpg and gif for usage on the web pages, 
-    AVIF: new image encoding format has the same benefits of webp with even better compression and picture quaility
+        Compessed SVG(less characters/optimized, less size)
+        webp designed to replace png, jpg and gif for usage on the web pages, 
+        AVIF: new image encoding format has the same benefits of webp with even better compression and picture quaility
     - Other Assets:
         Fonts: allow browser to display content when custom font is downloading
         ![Font Loading Optimization](https://github.com/pinkysamantaray/frontend-system-design/blob/main/assets/images/Font-Loading-Optimization.png)
+
+
+Cheers!
+
+----------------------------------------------------------------------------
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
